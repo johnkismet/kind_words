@@ -2,8 +2,6 @@
 
 A Slack bot for writing kind letters to real people. Write and receive encouraging letters throughout the day. Trade stickers and listen to music with your coworkers. We're all in this together, sometimes all you need are a few kind words.
 
-## Credit where credit is due
-This game is, in a sense, a Slack-port of the game Kind Words ([Steam Page](https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/)). I have spoken to the developers over Zoom and explained that this is project aims to encourage more genuine connection, though anonymous, and will not make any money. It's also something I'd like to put on my resume. They were completely okay with this, and I have text logs for proof if ever questioned.
 ## How will users interact with the bot?
 
 Ideally we will streamline interaction to be button based, rather than using commands. The MVP may have to rely on commands, though.
