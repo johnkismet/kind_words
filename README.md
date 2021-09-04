@@ -10,7 +10,7 @@ There are 4 interactions a user can make:
 ### Send Kind Words
 Users can write kind words, letters of encouragement, quotes, gratitudes, or anything positive here. All of these will be posted to a slack channel anonymously.
 ### Make a Request
-A request is an anonymous message sent for everyone to see and respond to, if they choose. Only the poster can see the responses, but everything is anonymous (unless people choose to include their name in their message)
+A request is an anonymous message sent for everyone to see and respond to, if they choose. The author may ask for advice, thoughts, words of encouragment, and other things along those lines. Only the poster can see the responses, but everything is anonymous (unless people choose to include their name in their message)
 ### View Requests
 This is where users can go to read other requests, and respond if they choose. All submissions are anonymous, unless the user chooses to include their name.
 ### View Stickers
