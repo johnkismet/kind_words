@@ -25,5 +25,8 @@ This is exciting to me. We will have a small economy of stickers, there's so muc
 - They may already own the sticker, in that case nothing happens.
 - The stickers are just a fun collectible aspect.
 - We can try to use the Wunderkind characters at first, and add on eventually.
+
+## Privacy
+I believe that while this project is contained to Wunderkind we should avoid tracking the authors of requests/responses. But this is up for discussion, maybe it's best we play it safe and include a reporting system early (which would require logging the authors of requests, responses, and kind words)
 ## Backlog Ideas
 - Create a live WKND jukebox that employees can tune into throughout the work day. the songs in the playlist are added by submissions from employees
